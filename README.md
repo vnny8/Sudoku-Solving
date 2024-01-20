@@ -1,0 +1,1 @@
+Um código em C para resolver Sudoku é uma implementação computacional que utiliza algoritmos para resolver um quebra-cabeça Sudoku. Este código recebe como entrada um tabuleiro de Sudoku parcialmente preenchido e encontra a solução completa, garantindo que todas as regras do Sudoku sejam atendidas.
